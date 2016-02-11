@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ajstyle/Waves-Accounting/issues"
   },
-  "homepage": "https://github.com/ajstyle/Waves-Accounting#readme"
+  "homepage": "https://github.com/ajstyle/Waves-Accounting#readme",
+  "dependencies": {
+    "del": "^2.2.0"
+  }
 }
